@@ -1,0 +1,24 @@
+**Rubric for Stock Span Problem Solution (Total: 10 Marks)**
+
+1. **Initialization and Input Handling (2 Marks)**
+   - 2 Marks: Proper initialization of stack and result list with correct input handling.
+   - 1 Mark: Minor issues in initialization but still functional.
+   - 0 Marks: Incorrect initialization or failure in input handling.
+
+2. **Loop and Iteration Logic (3 Marks)**
+   - 3 Marks: The loop correctly iterates over all elements, processing each correctly.
+   - 2 Marks: The loop structure is mostly correct but has minor logical issues.
+   - 1 Mark: The loop is inefficient or contains errors affecting correctness.
+   - 0 Marks: The loop fails to iterate properly or is missing.
+
+3. **Stack Operations and Span Calculation (3 Marks)**
+   - 3 Marks: Correct use of stack operations (push, pop, and peek) for computing span.
+   - 2 Marks: Stack is used but with some inefficiencies or minor logical errors.
+   - 1 Mark: Stack usage is flawed but partially functional.
+   - 0 Marks: Stack is not used or incorrectly implemented.
+
+4. **Correct Output Storage and Return (2 Marks)**
+   - 2 Marks: The result list correctly stores spans and returns the correct output.
+   - 1 Mark: Minor errors in storing or returning the result.
+   - 0 Marks: Output is incorrect or missing.
+
