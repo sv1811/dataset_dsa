@@ -1,0 +1,27 @@
+**Rubric for Swap Values to Equalize Array Sums Solution (Total: 10 Marks)**
+
+1. **Initialization and Sum Calculation (2 Marks)**
+   - 2 Marks: Proper initialization and correct computation of sum for both arrays.
+   - 1 Mark: Minor issues in initialization or sum calculation but still functional.
+   - 0 Marks: Incorrect sum calculation or failure in initialization.
+
+2. **Target Difference Computation (2 Marks)**
+   - 2 Marks: Correct calculation of target value (difference divided by 2) with proper handling of odd differences.
+   - 1 Mark: Minor errors in target computation but mostly correct.
+   - 0 Marks: Incorrect or missing target computation logic.
+
+3. **HashSet Usage for Efficient Lookup (3 Marks)**
+   - 3 Marks: Proper use of HashSet for fast lookup of required swap values.
+   - 2 Marks: HashSet is used but with some inefficiencies or unnecessary steps.
+   - 1 Mark: Partial implementation of HashSet that does not fully optimize lookup.
+   - 0 Marks: No use of HashSet or incorrect implementation.
+
+4. **Pair Matching and Validation (2 Marks)**
+   - 2 Marks: Correctly identifies and validates a valid swap pair.
+   - 1 Mark: Logic is mostly correct but may have minor errors affecting certain cases.
+   - 0 Marks: Incorrect or missing swap pair validation logic.
+
+5. **Correct Output Return (1 Mark)**
+   - 1 Mark: Returns the correct boolean result based on successful or unsuccessful pair finding.
+   - 0 Marks: Incorrect return values or missing return statement.
+
